@@ -17,7 +17,7 @@ Tenho 19 anos, estou cursando análise e desenvolvimento de sistemas na Toledo P
   <img align="right" alt="Bia-pic" height="150" style="border-radius:50px;" src="https://github.com/BiancaTeodoroU/TreinoHTMLeCSS/blob/main/img/bia.png?raw=true/Publicacoes_Instagram_1_1.png?width=676&height=676">
 </div>
   
-   ##
+  ##
   
   <div> 
   <a href="https://www.instagram.com/biancateodorou/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
