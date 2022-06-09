@@ -1,4 +1,4 @@
-### Olá, eu sou a Bianca Teodoro👋
+### Hello, a im Bianca Teodoro👋
 
 Tenho 19 anos, estou cursando análise e desenvolvimento de sistemas na Toledo Prudente e estou estudando para ser desenvolvedora Front-end.
 
