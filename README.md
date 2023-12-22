@@ -2,7 +2,7 @@
 
 Tenho 20 anos, formada em Análise e desenvolvimento de sistemas e Developer Front End Junior at Foregon.
 
-- 🌱 Estudando HTML, CSS, JAVASCRIPT e PUG
+- 📚 HTML, CSS, JAVASCRIPT, LIT-HTML, SCSS e PUG
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Bia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
