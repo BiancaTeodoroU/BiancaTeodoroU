@@ -1,6 +1,6 @@
 ### Hello, i am Bianca Teodoro👋
 
-I am 20 years old, graduated in Systems Analysis and Development and Developer Front End Junior at Foregon.
+I am 21 years old, graduated in Systems Analysis and Development and Developer Front End Junior at Foregon.
 
 - 📚 HTML, CSS, JAVASCRIPT, LIT-HTML, SCSS e PUG
 
