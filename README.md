@@ -2,7 +2,7 @@
 
 I am 22 years old, graduated in Systems Analysis and Development and Developer Full stack.
 
-- 📚 Javascript, React.js, Next.js, PHP, Python, Mysql, Sql, Bootstrap, Tailwind, Figma, Typescript, Scss e Electron.js
+- 📚 Javascript, React.js, Next.js, PHP, Python, Mysql, Sql, Bootstrap, Tailwind, Figma, Typescript, Scss, Electron.js, Typescript, Prisma and devops with make.
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Bia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
