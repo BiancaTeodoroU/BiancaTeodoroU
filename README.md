@@ -1,6 +1,6 @@
 ### Hello, i am Bianca Teodoro👋
 
-I am 22 years old, graduated in Systems Analysis and Development and Developer Full stack.
+I am 23 years old, graduated in Systems Analysis and Development and Developer Full stack.
 
 - 📚 Development & Design: Javascript, React.js, Next.js, PHP, Python, Mysql, Sql, Bootstrap, Tailwind, Figma, Typescript, Scss, Electron.js, Prisma.
 - 🚀 Infrastructure & DevOps: Docker (Containers), Nginx, VPS Management, Make.
