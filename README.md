@@ -5,7 +5,7 @@ I am 23 years old, graduated in Systems Analysis and Development and Developer F
 - 📚 Development & Design: Javascript, React.js, Next.js, PHP, Python, Mysql, Sql, Bootstrap, Tailwind, Figma, Typescript, Scss, Electron.js, Prisma.
 - 🚀 Infrastructure & DevOps: Docker (Containers), Nginx, VPS Management, Make.
 
-  <div style="display: flex"><br>
+  <div style="display: inline-block"><br>
   <img align="center" alt="Bia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Bia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
