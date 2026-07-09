@@ -2,7 +2,7 @@
 
 I am 23 years old, graduated in Systems Analysis and Development and Developer Full stack.
 
-- 📚 Development & Design: Javascript, React.js, Pug, Vite, Next.js, PHP, Laravel, Python, Mysql, Sql, Bootstrap, Tailwind, Figma, Typescript, Scss, Electron.js, Prisma.
+- 📚 Development & Design: Javascript, React.js, Pug, Vite, Next.js, PHP, Laravel, Python, Mysql, Sql, Bootstrap, Angular, Tailwind, Figma, Typescript, Scss, Electron.js, Prisma.
 - 🚀 Infrastructure & DevOps: Docker (Containers), Nginx, VPS Management, Make and n8n.
   
   ##
